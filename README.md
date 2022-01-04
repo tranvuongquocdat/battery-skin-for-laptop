@@ -1,7 +1,7 @@
 # battery-skin-for-laptop
 #
-Hướng dẫn làm rainmeter phần trăm pin
-<space><space>B1:Tải rainmeter theo đường link https://visualskins.com/skin/simplic
+<space>Hướng dẫn làm rainmeter phần trăm pin<space>
+<space>B1:Tải rainmeter theo đường link https://visualskins.com/skin/simplic<space>
 B2:Cài đặt
 B3:mở folder theo đường link sau trong hình
  ![image](https://user-images.githubusercontent.com/85268899/148028694-bc717f6c-4538-4f06-b1ca-d4434509437f.png)
